@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rickAndMorthy/static/css/main.884b0e11.chunk.css",
+    "main.js": "/rickAndMorthy/static/js/main.d5295177.chunk.js",
+    "main.js.map": "/rickAndMorthy/static/js/main.d5295177.chunk.js.map",
+    "runtime~main.js": "/rickAndMorthy/static/js/runtime~main.e0f6b2de.js",
+    "runtime~main.js.map": "/rickAndMorthy/static/js/runtime~main.e0f6b2de.js.map",
+    "static/js/2.bb26c3fc.chunk.js": "/rickAndMorthy/static/js/2.bb26c3fc.chunk.js",
+    "static/js/2.bb26c3fc.chunk.js.map": "/rickAndMorthy/static/js/2.bb26c3fc.chunk.js.map",
+    "index.html": "/rickAndMorthy/index.html",
+    "precache-manifest.cc0e5ea783dd4cd06452fdafc7b8ffdf.js": "/rickAndMorthy/precache-manifest.cc0e5ea783dd4cd06452fdafc7b8ffdf.js",
+    "service-worker.js": "/rickAndMorthy/service-worker.js",
+    "static/css/main.884b0e11.chunk.css.map": "/rickAndMorthy/static/css/main.884b0e11.chunk.css.map",
+    "static/media/default.jpg": "/rickAndMorthy/static/media/default.889a3fd4.jpg"
+  }
+}
