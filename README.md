@@ -2,6 +2,12 @@
 ```console
 git clone git@github.com:MiguelAngel12314/rickAndMorthy.git
 ```
+
+## redirect to branch
+```console
+git checkout dev
+```
+
 ### Open Repository
 
 ```console
