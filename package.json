@@ -2,10 +2,12 @@
   "name": "test_react",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://miguelangel12314.github.io/rickAndMorthy",
   "dependencies": {
     "@material-ui/core": "^4.2.1",
     "@material-ui/icons": "^4.2.1",
     "axios": "^0.19.0",
+    "gh-pages": "^2.1.1",
     "material-ui-flat-pagination": "^3.2.0",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.26",
@@ -22,7 +24,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
