@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/rickAndMorthy/path/static/css/main.884b0e11.chunk.css",
-    "main.js": "/rickAndMorthy/path/static/js/main.d1927423.chunk.js",
-    "main.js.map": "/rickAndMorthy/path/static/js/main.d1927423.chunk.js.map",
-    "runtime~main.js": "/rickAndMorthy/path/static/js/runtime~main.7b9bdfa1.js",
-    "runtime~main.js.map": "/rickAndMorthy/path/static/js/runtime~main.7b9bdfa1.js.map",
-    "static/js/2.bb26c3fc.chunk.js": "/rickAndMorthy/path/static/js/2.bb26c3fc.chunk.js",
-    "static/js/2.bb26c3fc.chunk.js.map": "/rickAndMorthy/path/static/js/2.bb26c3fc.chunk.js.map",
-    "index.html": "/rickAndMorthy/path/index.html",
-    "precache-manifest.4312558956c5b1aac0f7c75c8e539be0.js": "/rickAndMorthy/path/precache-manifest.4312558956c5b1aac0f7c75c8e539be0.js",
-    "service-worker.js": "/rickAndMorthy/path/service-worker.js",
-    "static/css/main.884b0e11.chunk.css.map": "/rickAndMorthy/path/static/css/main.884b0e11.chunk.css.map",
-    "static/media/default.jpg": "/rickAndMorthy/path/static/media/default.889a3fd4.jpg"
+    "main.css": "/rickAndMorthy/static/css/main.884b0e11.chunk.css",
+    "main.js": "/rickAndMorthy/static/js/main.d1927423.chunk.js",
+    "main.js.map": "/rickAndMorthy/static/js/main.d1927423.chunk.js.map",
+    "runtime~main.js": "/rickAndMorthy/static/js/runtime~main.e0f6b2de.js",
+    "runtime~main.js.map": "/rickAndMorthy/static/js/runtime~main.e0f6b2de.js.map",
+    "static/js/2.bb26c3fc.chunk.js": "/rickAndMorthy/static/js/2.bb26c3fc.chunk.js",
+    "static/js/2.bb26c3fc.chunk.js.map": "/rickAndMorthy/static/js/2.bb26c3fc.chunk.js.map",
+    "index.html": "/rickAndMorthy/index.html",
+    "precache-manifest.bd175c7b2ff7d42c375568d201af9649.js": "/rickAndMorthy/precache-manifest.bd175c7b2ff7d42c375568d201af9649.js",
+    "service-worker.js": "/rickAndMorthy/service-worker.js",
+    "static/css/main.884b0e11.chunk.css.map": "/rickAndMorthy/static/css/main.884b0e11.chunk.css.map",
+    "static/media/default.jpg": "/rickAndMorthy/static/media/default.889a3fd4.jpg"
   }
 }
