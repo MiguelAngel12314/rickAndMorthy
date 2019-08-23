@@ -1,6 +1,6 @@
 ## Clone Repository for ssh
 ```console
-git clone git@github.com:MiguelAngel12314/rickAndMorthy.git
+git clone git@github.com:MiguelAngel12314/rickandmorthy.git
 ```
 
 ## redirect to branch
@@ -11,7 +11,7 @@ git checkout dev
 ### Open Repository
 
 ```console
-cd rickAndMorthy
+cd rickandmorthy
 ```
 
 ### Install packages

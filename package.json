@@ -2,7 +2,6 @@
   "name": "test_react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://miguelangel12314.github.io/rickAndMorthy",
   "dependencies": {
     "@material-ui/core": "^4.2.1",
     "@material-ui/icons": "^4.2.1",
@@ -25,7 +24,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"

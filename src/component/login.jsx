@@ -78,7 +78,7 @@ class LoginComponent extends React.Component{
           <Button
             type="button"
             fullWidth
-            href="/home"
+            href="#/home"
             variant="contained"
             color="primary"
             className={classes.submit}

@@ -148,7 +148,7 @@ export default class CharacterComponent extends React.Component {
                         <CardActions style={{
                           display: this.props.uri === 'episode' ? 'none' : 'block'
                         }}>
-                          <Button href={`/episode/${episode.name}/${episode.episode.map(x => x.split('/')[5]).join()}`} 
+                          <Button href={`#/episode/${episode.name}/${episode.episode.map(x => x.split('/')[5]).join()}`} 
                           size="small" color="primary">
                             Capitulos
                           </Button>

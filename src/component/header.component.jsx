@@ -14,7 +14,7 @@ class HeaderComponent extends React.Component {
       <div>
         <AppBar position="static">
           <Toolbar>
-          <IconButton edge="start" color="inherit" href="/home" aria-label="ArrowBack">
+          <IconButton edge="start" color="inherit" href="#/home" aria-label="ArrowBack">
                     <ArrowBack />
                   </IconButton>
             <Typography variant="h6">
